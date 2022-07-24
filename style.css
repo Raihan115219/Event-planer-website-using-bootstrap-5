@@ -4,7 +4,7 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
-.icons {
+/* .icons {
   margin-right: 5px;
 }
 .linkActive {
@@ -23,8 +23,4 @@
   outline: none;
   border: none;
   border-radius: 25px;
-}
-
-.card-body p {
-  font-size: 10px;
 }
